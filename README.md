@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Digital Deisgn and Verilog** to program FPGAs from the ground up.
 
-- ☁️ I’m diving deep into FPGA concepts—synchronous logic, state machines, timing constraints, and more.
+- ☁️ I’m diving deep into RTL logic, state machines, timing constraints, and more.
 
 - 💬 Ask me about **FPGA design, Verilog coding, simulation techniques, timing analysis**
 
