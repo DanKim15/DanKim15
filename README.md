@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **FPGA design, Verilog coding, simulation techniques, timing analysis**
 
-- 📫 Feel free to reach me out **kim600@mcmaster.ca**
+- 📫 Feel free to reach out **kim600@mcmaster.ca**
 
 <!--Intro end-->
 
