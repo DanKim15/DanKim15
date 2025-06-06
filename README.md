@@ -10,7 +10,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I'm currently developing an FPGA-based memory game and building out its supporting digital logic.
+- 🔭 I'm currently implementing an I2C speciifcation through an FPGA and building out its supporting digital logic.
 
 - 🌱 I’m currently learning **Digital Deisgn and Verilog** to program FPGAs from the ground up.
 
