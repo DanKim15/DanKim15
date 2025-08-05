@@ -10,13 +10,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I'm currently implementing an I2C speciifcation through an FPGA and building out its supporting digital logic.
+- 🔭 Exploring FPGA designs and peripheral interfaces
 
-- 🌱 I’m currently learning **Digital Deisgn and Verilog** to program FPGAs from the ground up.
+- 🌱 Currently learning **Digital Deisgn and Verilog** to program FPGAs from the ground up
 
-- ☁️ I’m diving deep into RTL logic, state machines, timing constraints, and more.
+- ☁️ Studying state machines, timing constraints, simulation flows, and high-speed protocols
 
-- 💬 Ask me about **FPGA design, Verilog coding, simulation techniques, timing analysis**
+- 💬 Happy to chat about **FPGA architectures, Verilog best practices, I²C/SPI/UART, and hardware verification**
 
 - 📫 Feel free to reach out **kim600@mcmaster.ca**
 
