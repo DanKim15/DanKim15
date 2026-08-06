@@ -8,9 +8,7 @@
 
 * Computer Engineering student at McMaster University.
 * Currently working as an SoC Digital Design Intern at Tenstorrent.
-* Focused on RTL design, SoC integration, CDC/RDC, reset architecture, and digital verification.
-* Interested in FPGA/ASIC design, hardware-firmware interfaces, and reliable digital systems.
-* Project experience with SystemVerilog/Verilog, FPGA datapaths, VGA, I²C, UART, SRAM/BRAM control, and Python-based validation.
+* Focused on RTL design, SoC integration, CDC/RDC,and verification.
 * Reach me at **[d.kimwloo@gmail.com](mailto:d.kimwloo@gmail.com)**.
 
 
